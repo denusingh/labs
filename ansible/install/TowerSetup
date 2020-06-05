@@ -2,6 +2,7 @@
     2  git clone https://github.com/lerndevops/labs
     3  cd labs/
     4  cd ansible/
+    cd install/
     5  ./installAnsible.sh 
     6  apt-get update
     9  apt install python3-pip
